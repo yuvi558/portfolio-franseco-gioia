@@ -53,7 +53,7 @@ portfolio-franseco-gioia/
 
 ![in](https://github.com/user-attachments/assets/5e126447-0db1-425b-97ee-edd886347d53)
 
-![gi_optimized](https://github.com/user-attachments/assets/597d51c2-dbe9-4cd6-8a90-31f35f680804)
+
 
 
 🚀 How to Run Locally
